@@ -39,13 +39,15 @@ section{
     margin-block-start: 20px;
 }
 th{
-    background-color: rgb(105, 170, 255);    
+    background-color: rgb(105, 170, 255); 
+    color: white;
+    width:30%   
 }
 #lg{
     width:70%
 }
 .colorb{
-    background-color:rgb(137, 236, 236);
+    background-color:rgb(171, 227, 255);
 }
 
 table{

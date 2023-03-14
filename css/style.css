@@ -1,0 +1,41 @@
+
+
+header {
+            background-image: url("img/pattern.png");
+            background-color: rgb(105, 170, 255);
+            background-size:30%;
+}
+
+#logo{
+    position: inherit;
+    width: 100px;
+    height:100px;
+}
+
+#by{
+   font-size: 10px; 
+   margin-block-end: 10px;
+}
+
+#date{
+    font-size: 8px;
+}
+
+h1{
+    font-size: 35px;
+    margin-block-start: 10px;
+    margin-block-end: 0px;
+}
+
+th{
+    background-color: rgb(105, 170, 255);
+    width: 50px;
+}
+
+table{
+    border-spacing: 0;
+}
+
+section{
+    margin-left:0% ;
+}
